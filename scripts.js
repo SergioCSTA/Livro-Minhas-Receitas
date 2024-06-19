@@ -1,11 +1,12 @@
 // scripts.js
 const urls = [
-    'URL_DA_CAPA.pdf',      // Substitua pelos URLs reais
-    'URL_DA_PAGINA1.pdf',  // Substitua pelos URLs reais
-    'URL_DA_PAGINA2.pdf',  // Substitua pelos URLs reais
-    'URL_DA_PAGINA3.pdf',  // Substitua pelos URLs reais
-    'URL_DA_PAGINA4.pdf',  // Substitua pelos URLs reais
-    'URL_DA_PAGINA5.pdf'   // Substitua pelos URLs reais
+    'https://drive.google.com/file/d/11YDEeUkx_jWVEC-v6MjEgZ4UHCbZD33A/view?usp=sharing',      // Substitua pelos URLs reais
+    'https://drive.google.com/file/d/11ZspytB1hX4Tgd2ALMS8pHYYuClCsI9I/view?usp=sharing',  // Substitua pelos URLs reais
+    'https://drive.google.com/file/d/116JkYjRLwZyWmfwHmNBSevjZc15l7yct/view?usp=sharing',  // Substitua pelos URLs reais
+    'https://drive.google.com/file/d/111NmIQHbLs-qwdQ3-wBbul7F-dj2ltUx/view?usp=sharing',  // Substitua pelos URLs reais
+    'https://drive.google.com/file/d/111xiL9BVtjcaCLs64e65FgVYopXg1_oL/view?usp=sharing',  // Substitua pelos URLs reais
+    'https://drive.google.com/file/d/10vP6bvYAkJ1ktNu6OA_7b9hnuLsxZnwe/view?usp=sharing'   // Substitua pelos URLs reais
+    'https://drive.google.com/file/d/10oacNFyAz9gD7VwfowCYAYnrpMMFXJaM/view?usp=sharing'   // Substitua pelos URLs reais
 ];
 
 let currentPage = 0;
